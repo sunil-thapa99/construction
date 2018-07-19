@@ -1,0 +1,77 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Jul 2018 15:51:53 at http://demo.iamarif.com/consta-wp/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.iamarif.com/consta-wp/ -O1 "D:\themes\construction" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:51:54	Error: 	"Internal Server Error" (500) after 2 retries at link demo.iamarif.com/robots.txt (from primary/primary)
+15:58:17	Warning: 	Retry after error -2 (Receive Time Out) at link demo.iamarif.com/consta-wp/wp-content/uploads/2017/01/2.jpg (from demo.iamarif.com/consta-wp/)
+16:02:54	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/ionicons.ttf?v=2.0.0 (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/ionicons.min.css?ver=4.9.7)
+16:04:55	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.eot (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:04:55	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.eot? (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:04:55	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.woff2 (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:04:55	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.woff (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:04:55	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.ttf (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:04:55	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.svg (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:04:55	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/owl.video.play.png (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/owl.carousel.css?ver=4.9.7)
+16:04:57	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.iamarif.com/consta-wp/wp-content/plugins/kingcomposer/assets/css/fonts/et-line.eot (from demo.iamarif.com/consta-wp/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.4)
+16:04:57	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.iamarif.com/consta-wp/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.eot? (from demo.iamarif.com/consta-wp/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.4)
+16:07:17	Warning: 	Found for demo.iamarif.com/consta-wp/bugatti-empire-construction-kit-included-midi-files/?share=twitter
+16:07:17	Warning: 	File has moved from demo.iamarif.com/consta-wp/bugatti-empire-construction-kit-included-midi-files/?share=twitter to https://twitter.com/intent/tweet?text=Bugatti%20Empire%20-%20Construction%20Kit%20%28Included%20Midi%20Files%29&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fbugatti-empire-construction-kit-included-midi-files%2F
+16:07:17	Warning: 	Found for demo.iamarif.com/consta-wp/bugatti-empire-construction-kit-included-midi-files/?share=facebook
+16:07:17	Warning: 	File has moved from demo.iamarif.com/consta-wp/bugatti-empire-construction-kit-included-midi-files/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fbugatti-empire-construction-kit-included-midi-files%2F&t=Bugatti%20Empire%20-%20Construction%20Kit%20%28Included%20Midi%20Files%29
+16:07:17	Warning: 	Found for demo.iamarif.com/consta-wp/bugatti-empire-construction-kit-included-midi-files/?share=google-plus-1
+16:07:17	Warning: 	File has moved from demo.iamarif.com/consta-wp/bugatti-empire-construction-kit-included-midi-files/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fbugatti-empire-construction-kit-included-midi-files%2F
+16:10:01	Warning: 	Found for demo.iamarif.com/consta-wp/construction-industry-in-europe/?share=twitter
+16:10:01	Warning: 	File has moved from demo.iamarif.com/consta-wp/construction-industry-in-europe/?share=twitter to https://twitter.com/intent/tweet?text=Construction%20Industry%20in%20Europe&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fconstruction-industry-in-europe%2F
+16:10:03	Warning: 	Found for demo.iamarif.com/consta-wp/construction-industry-in-europe/?share=facebook
+16:10:03	Warning: 	File has moved from demo.iamarif.com/consta-wp/construction-industry-in-europe/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fconstruction-industry-in-europe%2F&t=Construction%20Industry%20in%20Europe
+16:10:03	Warning: 	Found for demo.iamarif.com/consta-wp/construction-industry-in-europe/?share=google-plus-1
+16:10:03	Warning: 	File has moved from demo.iamarif.com/consta-wp/construction-industry-in-europe/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fconstruction-industry-in-europe%2F
+16:10:07	Warning: 	Found for demo.iamarif.com/consta-wp/how-do-requests-for-proposal-work/?share=twitter
+16:10:07	Warning: 	File has moved from demo.iamarif.com/consta-wp/how-do-requests-for-proposal-work/?share=twitter to https://twitter.com/intent/tweet?text=How%20do%20Requests%20for%20Proposal%20work%3F&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhow-do-requests-for-proposal-work%2F
+16:10:09	Warning: 	Found for demo.iamarif.com/consta-wp/how-do-requests-for-proposal-work/?share=facebook
+16:10:09	Warning: 	File has moved from demo.iamarif.com/consta-wp/how-do-requests-for-proposal-work/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhow-do-requests-for-proposal-work%2F&t=How%20do%20Requests%20for%20Proposal%20work%3F
+16:10:09	Warning: 	Found for demo.iamarif.com/consta-wp/how-do-requests-for-proposal-work/?share=google-plus-1
+16:10:09	Warning: 	File has moved from demo.iamarif.com/consta-wp/how-do-requests-for-proposal-work/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhow-do-requests-for-proposal-work%2F
+16:10:09	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/g.gif (from https://stats.wp.com/e-201829.js)
+16:10:09	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/c.gif (from https://stats.wp.com/e-201829.js)
+16:10:09	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/t.gif (from https://stats.wp.com/e-201829.js)
+16:10:09	Warning: 	Retry after error -2 (Receive Time Out) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/ionicons.ttf?v=2.0.0 (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/ionicons.min.css?ver=4.9.7)
+16:10:20	Error: 	"Not Found" (404) at link demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/fonts/glyphicons-halflings-regular.eot (from demo.iamarif.com/consta-wp/wp-content/themes/consta/assets/css/bootstrap.min.css?ver=4.9.7)
+16:10:20	Warning: 	Found for demo.iamarif.com/consta-wp/kaiser-s12-allroad-demo-bauma-2013/?share=twitter
+16:10:20	Warning: 	File has moved from demo.iamarif.com/consta-wp/kaiser-s12-allroad-demo-bauma-2013/?share=twitter to https://twitter.com/intent/tweet?text=Kaiser%20S12%20Allroad%20Demo%20%40%20Bauma%202013&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fkaiser-s12-allroad-demo-bauma-2013%2F
+16:10:20	Warning: 	Found for demo.iamarif.com/consta-wp/kaiser-s12-allroad-demo-bauma-2013/?share=facebook
+16:10:20	Warning: 	File has moved from demo.iamarif.com/consta-wp/kaiser-s12-allroad-demo-bauma-2013/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fkaiser-s12-allroad-demo-bauma-2013%2F&t=Kaiser%20S12%20Allroad%20Demo%20%40%20Bauma%202013
+16:10:20	Warning: 	Found for demo.iamarif.com/consta-wp/kaiser-s12-allroad-demo-bauma-2013/?share=google-plus-1
+16:10:20	Warning: 	File has moved from demo.iamarif.com/consta-wp/kaiser-s12-allroad-demo-bauma-2013/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fkaiser-s12-allroad-demo-bauma-2013%2F
+16:10:26	Warning: 	Found for demo.iamarif.com/consta-wp/german-proptech-initiative-founded/?share=twitter
+16:10:26	Warning: 	File has moved from demo.iamarif.com/consta-wp/german-proptech-initiative-founded/?share=twitter to https://twitter.com/intent/tweet?text=German%20PropTech%20Initiative%20founded&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fgerman-proptech-initiative-founded%2F
+16:10:26	Warning: 	Found for demo.iamarif.com/consta-wp/german-proptech-initiative-founded/?share=facebook
+16:10:26	Warning: 	File has moved from demo.iamarif.com/consta-wp/german-proptech-initiative-founded/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fgerman-proptech-initiative-founded%2F&t=German%20PropTech%20Initiative%20founded
+16:10:26	Warning: 	Found for demo.iamarif.com/consta-wp/german-proptech-initiative-founded/?share=google-plus-1
+16:10:26	Warning: 	File has moved from demo.iamarif.com/consta-wp/german-proptech-initiative-founded/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fgerman-proptech-initiative-founded%2F
+16:10:42	Warning: 	Found for demo.iamarif.com/consta-wp/how-to-successfully-apply-for-bids/?share=twitter
+16:10:42	Warning: 	File has moved from demo.iamarif.com/consta-wp/how-to-successfully-apply-for-bids/?share=twitter to https://twitter.com/intent/tweet?text=How%20to%20successfully%20apply%20for%20bids&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhow-to-successfully-apply-for-bids%2F
+16:10:42	Warning: 	Found for demo.iamarif.com/consta-wp/how-to-successfully-apply-for-bids/?share=facebook
+16:10:42	Warning: 	File has moved from demo.iamarif.com/consta-wp/how-to-successfully-apply-for-bids/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhow-to-successfully-apply-for-bids%2F&t=How%20to%20successfully%20apply%20for%20bids
+16:10:42	Warning: 	Found for demo.iamarif.com/consta-wp/how-to-successfully-apply-for-bids/?share=google-plus-1
+16:10:42	Warning: 	File has moved from demo.iamarif.com/consta-wp/how-to-successfully-apply-for-bids/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhow-to-successfully-apply-for-bids%2F
+16:10:42	Warning: 	Found for demo.iamarif.com/consta-wp/buildings-inspired-by-mothers/?share=twitter
+16:10:42	Warning: 	File has moved from demo.iamarif.com/consta-wp/buildings-inspired-by-mothers/?share=twitter to https://twitter.com/intent/tweet?text=Buildings%20inspired%20by%20mother%E2%80%99s&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fbuildings-inspired-by-mothers%2F
+16:10:42	Warning: 	Found for demo.iamarif.com/consta-wp/buildings-inspired-by-mothers/?share=facebook
+16:10:42	Warning: 	File has moved from demo.iamarif.com/consta-wp/buildings-inspired-by-mothers/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fbuildings-inspired-by-mothers%2F&t=Buildings%20inspired%20by%20mother%E2%80%99s
+16:10:42	Warning: 	Found for demo.iamarif.com/consta-wp/buildings-inspired-by-mothers/?share=google-plus-1
+16:10:42	Warning: 	File has moved from demo.iamarif.com/consta-wp/buildings-inspired-by-mothers/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fbuildings-inspired-by-mothers%2F
+16:10:43	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.iamarif.com/consta-wp/author/arif/page/3/ (from demo.iamarif.com/consta-wp/author/arif/page/2/)
+16:11:15	Warning: 	Found for demo.iamarif.com/consta-wp/hello-world/?share=twitter
+16:11:15	Warning: 	File has moved from demo.iamarif.com/consta-wp/hello-world/?share=twitter to https://twitter.com/intent/tweet?text=Hello%20world%21&url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhello-world%2F
+16:11:15	Warning: 	Found for demo.iamarif.com/consta-wp/hello-world/?share=facebook
+16:11:15	Warning: 	File has moved from demo.iamarif.com/consta-wp/hello-world/?share=facebook to http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhello-world%2F&t=Hello%20world%21
+16:11:15	Warning: 	Found for demo.iamarif.com/consta-wp/hello-world/?share=google-plus-1
+16:11:15	Warning: 	File has moved from demo.iamarif.com/consta-wp/hello-world/?share=google-plus-1 to https://plus.google.com/share?url=http%3A%2F%2Fdemo.iamarif.com%2Fconsta-wp%2Fhello-world%2F
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 37 seconds : 302 links scanned, 260 files written (13519489 bytes overall) [10837151 bytes received at 9207 bytes/sec], 4725530 bytes transferred using HTTP compression in 113 files, ratio 29%, 2.8 requests per connection
+(11 errors, 55 warnings, 0 messages)
